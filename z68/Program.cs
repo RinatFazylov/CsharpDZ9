@@ -3,12 +3,6 @@
 // m = 2, n = 3 -> A(m,n) = 9
 // m = 3, n = 2 -> A(m,n) = 29
 
-// int InputNumber(string input)
-// {
-//     Console.Write(input);
-//     int output = Convert.ToInt32(Console.ReadLine());
-//     return output;
-// }
 Console.WriteLine("Введите число M: ");
 int num1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число N: ");
